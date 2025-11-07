@@ -58,6 +58,6 @@ Each notebook:
 ├── ConvNeXt_Small.ipynb
 ├── ConvNeXt(Small)_PM.csv
 │
-├── Analysis of Results.xlsx
-│
+├── Analysis of Results.xlsx 
+│ (This Analysis contains the graphs, tables, used in the report)
 └── README.md
