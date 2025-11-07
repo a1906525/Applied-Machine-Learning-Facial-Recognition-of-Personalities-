@@ -14,7 +14,7 @@ All model implementations are provided as Jupyter notebooks (`.ipynb`), with cor
 
 ## Architectures Covered
 
-The following backbone architectures are implemented and evaluated:
+The following CNN architectures are implemented and evaluated through transfer learning:
 
 - **VGG-19**
 - **ResNet-50**
